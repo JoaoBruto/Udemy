@@ -1,0 +1,24 @@
+.estilo-fontes {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.overline {
+    text-decoration: overline   ;
+}
+
+.negrito {
+    font-weight: bold; /* pode ir de 100 a 900 */
+}
+
+.italico {
+    font-style: italic;
+}
+
+.riscado {
+    text-decoration: line-through;
+}

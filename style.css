@@ -1,0 +1,43 @@
+.formatacao {
+    color: rgb(20, 222, 50);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.texto {
+    font-size: 20px;
+}
+
+.azul {
+    color: blue;
+}
+
+.rosa {
+    color: purple;
+}
+
+#topo {
+    background: blue;
+}
+
+#conteudo {
+    border: 5px groove rgba(179, 219, 78, 0.953);
+}
+
+h1 {
+    color: black;
+}
+
+#rodape {
+    background: green;
+}
+
+.produto {
+    background: lightgray;
+    margin: 10px;
+    padding: 10px;
+}
+
+#assinatura {
+    background: pink;
+}
