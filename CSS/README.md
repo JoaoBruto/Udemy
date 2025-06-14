@@ -6,14 +6,17 @@ Este repositório foi criado para reunir todos os meus testes, anotações e pro
 
 Praticar e fixar os principais conceitos de CSS, como:
 
-- Seletores
-- Cores, fontes e tipografia
-- Box model
-- Flexbox e Grid
-- Position, z-index e display
-- Responsividade
-- Transições e animações
-- Layouts em geral
+- Classes e IDS
+- Seletores CSS
+- Box model (modelo de caixa
+- Tags Div & Span
+- Bordas
+- Fontes & Cores
+- Tamanho de textos
+- Estilos de textos
+- Cor e imagem de fundo
+- CSS externo
+- Inline CSS
 
 ## 🧪 Como estou usando esse repositório
 
@@ -22,15 +25,6 @@ Sempre que aprendo algo novo, crio um arquivo ou projeto pequeno aqui para prati
 - Consolidar o conhecimento com exemplos reais
 - Organizar meu progresso de forma visual
 - Ter um histórico do que já aprendi
-
-## 📁 Estrutura (exemplo)
-📂 css-studies
-├── box-model.html
-├── flexbox-layout.html
-├── animations/
-│ └── bounce-animation.html
-├── grid-test.html
-└── style.css
 
 ## 🚀 Como visualizar os arquivos
 
