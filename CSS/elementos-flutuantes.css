@@ -3,18 +3,30 @@
     border: 1px;
     border-style: solid;
     border-color: gray;
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     float: left;
+    margin: 15px;
 }
 
-/* .conteudo1 {
+#principal {
+    border: 5px;
+    border-color: red;
+    border-style: solid;
+    background: green;
+}
+
+/*.conteudo4 {
     background: red;
     border: 1px;
     border-style: solid;
     border-color: gray;
-    width: 150px;
-    height: 150px;
-    float: right;
+    width: 200px;
+    height: 200px;
+    margin: 15px
+} */
+
+.clear {
+    clear: both;
 }
-    */
+ 
