@@ -15,7 +15,7 @@ Praticar e fixar os principais conceitos de CSS, como:
 - Tamanho de textos
 - Estilos de textos
 - Cor e imagem de fundo
-- CSS externo
+- CSS3 externo
 - Inline CSS
 
 ## 🧪 Como estou usando esse repositório
@@ -32,3 +32,4 @@ Basta clonar o repositório e abrir os arquivos `.html` no seu navegador:
 
 ```bash
 git clone https://github.com/JoaoBruto/css-studies.git
+"# Teste de commit com e-mail correto" 
