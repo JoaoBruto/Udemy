@@ -26,9 +26,4 @@ Sempre que aprendo algo novo, crio um arquivo ou projeto pequeno aqui para prati
 - Organizar meu progresso de forma visual
 - Ter um histórico do que já aprendi
 
-## 🚀 Como visualizar os arquivos
 
-Basta clonar o repositório e abrir os arquivos `.html` no seu navegador:
-
-```bash
-git clone https://github.com/JoaoBruto/css-studies.git
