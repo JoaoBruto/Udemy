@@ -1,13 +1,27 @@
-#principal {
-    width: 920px;
-    border: 1px solid red;
-    
-}
+body {
+				background: #f4f4f4;
+			}
 
-.noticia {
-    background: #e5e5e5; /* cor do fundo */
-    padding: 5px; /* espaçamento interno */
-    width: 280px; /* largura */
-    margin: 5px;
-    float: left;
-}
+			#principal {
+				width: 920px;
+			}
+
+			.noticia {
+				background: #e5e5e5;
+				padding: 5px; /* Espaçamento externo */
+				width: 280px; /* Tamanho */
+				margin: 7px; /* Espaçamento interno */
+				float: left;
+			}
+
+			.imagem-galeria {
+				background: white;
+				width: 265px;
+				padding: 5px;
+				float: left;
+				margin: 15px;
+			}
+			
+			.clear{
+				clear: both;
+			}
