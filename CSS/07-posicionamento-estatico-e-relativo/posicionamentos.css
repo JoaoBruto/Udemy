@@ -1,0 +1,22 @@
+body {
+    background: #007fc7;
+}
+
+.relative {
+    border: 1px solid red;
+    position: relative;
+    top: 10px;
+    left: 30px; /*Pode ser atribuido valores negativos e positivos */
+}
+
+p {
+    width: 300px;
+}
+    
+
+#container {
+    background: #FFF;
+    width: 800px;
+    margin: auto auto;
+    padding: 10px;
+}
