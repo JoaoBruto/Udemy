@@ -5,8 +5,26 @@ body {
 .relative {
     border: 1px solid red;
     position: relative;
-    top: 10px;
-    left: 30px; /*Pode ser atribuido valores negativos e positivos */
+    top: 0px;
+    left: 0px; /*Pode ser atribuido valores negativos e positivos */
+}
+
+.absolute {
+    position: relative;
+    background: #f2f2f2;
+    top: 0px;
+    right: 0px;
+    border: 1px solid red;
+    
+}
+
+.fixed {
+    position: fixed;
+    background: #f2f2f2;
+    border: 1px solid red;
+    top: 0px;
+    left: 0px;
+    
 }
 
 p {
