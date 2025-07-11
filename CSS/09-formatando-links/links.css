@@ -1,0 +1,15 @@
+a:link { /*Link não visitado*/
+    color: #b9c941;
+}
+ 
+a:visited {  /*Link visitado */
+    color: green;
+}
+
+a:hover { /* Quando passa o cursor por cima */
+    color: #6d790f;
+}
+
+a:active { /*Link ativo, quando clicado */
+    color: #e4f371;
+}
