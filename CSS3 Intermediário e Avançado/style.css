@@ -18,4 +18,20 @@
 /* Seletor de filho */
 li>a {
     text-decoration: none;
+    color: black;
+}
+
+/* Seletor de descendente */
+p a {
+    color: yellow;
+}
+
+/* Seletor de irmão adjacente */
+h1+p {
+    color: red;
+}
+
+/* Seletor de irmão geral */
+h1~p {
+    color: violet;
 }
