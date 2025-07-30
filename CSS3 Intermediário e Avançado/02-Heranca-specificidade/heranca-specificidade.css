@@ -1,0 +1,20 @@
+/* Especificidade */
+
+p {
+    color: red !important; /* Sem esse elemento "!important", ele iria aplicar o ultimo elemento escrito, no caso o blue */
+}
+
+p {
+    color: blue; 
+}
+
+
+/* Herança */
+
+body {
+    border: 1px solid red; /* Assim ele cria a borda geral, sem ser uma borda pra cada */
+}
+
+* {
+    border: 1px solid blue; /*Assim o elemento aplica pra todos e cortonando tudo */
+}
