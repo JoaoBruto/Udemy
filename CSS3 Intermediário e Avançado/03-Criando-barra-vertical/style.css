@@ -10,16 +10,24 @@ li {
     background: url(arquivos-necessarios-barra-navegacao-vertical/seta.png) no-repeat;
 }
 */
-ul {
-    margin: 0;
-    padding: 0;
+ol {
     list-style-type: none;
-
+    margin: 0;
+    padding: 0
 }
 
-ul a {
-    width: 400px;
+ol a {
+    width: 200px;
     height: 40px;
     display: block;
-    border: 1px solid red;
+    color: black;
+    text-decoration: none;
+    text-indent: 40px;
+    line-height: 40px;
+    background: url(arquivos-necessarios-barra-navegacao-vertical/menu.png) no-repeat;
+    background-position: left;
+}
+
+ol a:hover {
+    background-position: right ;
 }
