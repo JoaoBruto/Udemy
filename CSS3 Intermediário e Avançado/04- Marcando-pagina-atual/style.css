@@ -1,0 +1,29 @@
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0
+}
+
+ol a {
+    width: 200px;
+    height: 40px;
+    display: block;
+    color: black;
+    text-decoration: none;
+    text-indent: 40px;
+    line-height: 40px;
+    background: #f7b600 url(arquivos-necessarios-barra-navegacao-vertical/menu.png) no-repeat;
+    background-position: left;
+}
+
+ol a:hover {
+    background-position: right ;
+    background-color: #f99200;
+}
+
+#home .home a, #sobre .sobre a, #servicos .servicos a, #noticias .noticias a, #contato .contato a {
+    background-position: right ;
+    background-color: #f99200;
+    color: white;
+}
+
